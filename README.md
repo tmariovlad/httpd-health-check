@@ -1,4 +1,4 @@
-# http-health-check
+# httpd-health-check
 
 This is not for production use!
 
